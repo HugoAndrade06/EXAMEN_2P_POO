@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <ctime>
+#include <cctype>
 
 using namespace std;
 
@@ -179,8 +180,8 @@ string meses[] = {
                 archivo << "Promedio: " << promedio << endl;
                 archivo << "Nota mayor: " << mayor << endl;
                 archivo << "Nota menor: " << menor << endl;
-                archivo << "Aprobados: " << aprobados << endl;
-                archivo << "Reprobados: " << reprobados << endl;
+                archivo << "Materias Aprobadas: " << aprobados << endl;
+                archivo << "Materias Reprobadas: " << reprobados << endl;
                 archivo << "Fecha: "
                 << dias[fecha->tm_wday] << " "
                 << fecha->tm_mday << " de "

@@ -1,20 +1,370 @@
 ==========================
-Nombre: Hugo
-Promedio: 1.79617e-307
-Nota mayor: 8.00859e-307
-Nota menor: 4.53673e+101
-Aprobados: 0
-Reprobados: 0
-Fecha: Wed May 13 07:39:34 2026
-Lenguaje utilizado: C++
-==========================
-==========================
-Nombre: Hugo
+Nombre: ACOSTA SOLIS HANNA AIDE
 Promedio: 10
 Nota mayor: 10
 Nota menor: 10
-Aprobados: 5
-Reprobados: 0
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: ANDRADE SANCHEZ HUGO ALEXANDER
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: ATIENCIA CHERRES JOSUE ALEXANDER
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: BALAREZO PEREZ DIEGO SEBASTIAN
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: BARRIONUEVO MONTESDEOCA JOB GABRIEL
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: BEDOYA MAZO JUAN MANUEL
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: BRAVO LOPEZ JORDAN SAMUEL
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: CAJIAO VALDIVIESO PAULO ALESSANDRO
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: CALVOPINA HERRERA BRANDON ISRAEL
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: CHACHA CHANGO VICTOR MANUEL
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: CHILUIZA QUISHPE DIEGO STEED
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: DOMINGUEZ LESCANO DANIEL SEBASTIAN
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: FREIRE AREBALO ALAN ANDERSO
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: GUALLE AUCANSHALA ABISAG LISENIA
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: GUAMAN CHANAHUANO HAMILTON ALEXANDER
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: GUANGA ALTAMIRANO EDWIN SEBASTIAN
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: GUANOTOA ESCOBAR KARLA LEONELA
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: LANDETA TAPIA EDISON PAUL
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: LARA BALSECA KAREN ARACELY
+Promedio: 0
+Nota mayor: 0
+Nota menor: 0
+Materias Aprobadas: 0
+Materias Reprobadas: 5
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: LOPEZ SANCHEZ WASHINGTON STEVEN
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: MIRANDA GARCES ALAN IMANOL
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: MONAR PARCO JHAIR ALEXANDER
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: MUYULEMA MOYOLEMA MATEO ALEXANDER
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: NARVAEZ GAVILANES ANTONELLA NICOLE
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: NUNEZ ESPIN BRYAN SEBASTIAN
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: PILCO FLORES MARIO DAVID
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: POMAQUERO CHANGO KATHERINE SOLEDAD
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: QUEVEDO AJON GINA ANAHI
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: RIVADENEYRA ULLOA MATIAS SEBASTIAN
+Promedio: 9.2
+Nota mayor: 10
+Nota menor: 9
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: ROCHA ROCHA CAROLINA ESTEFANIA
+Promedio: 9.4
+Nota mayor: 10
+Nota menor: 8
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: SANCHEZ LEMA ISAAC ADRIAN
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: SEGOVIA GARCIA JOSEPH ANDRE
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: SUPE GARCES JOAN SEBASTIAN
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: TOAPANTA IZA KEVIN MATIAS
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: VERDESOTO AZOGUE KEVIN ALEXANDER
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: VILLACRES TOALOMBO JOSUE ALEJANDRO
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: VITERI CAMINO MAYDELIN SHANTAL
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Materias Aprobadas: 5
+Materias Reprobadas: 0
 Fecha: Miercoles 13 de Mayo del 2026
 Lenguaje utilizado: C++
 ==========================
