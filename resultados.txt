@@ -1,0 +1,20 @@
+==========================
+Nombre: Hugo
+Promedio: 1.79617e-307
+Nota mayor: 8.00859e-307
+Nota menor: 4.53673e+101
+Aprobados: 0
+Reprobados: 0
+Fecha: Wed May 13 07:39:34 2026
+Lenguaje utilizado: C++
+==========================
+==========================
+Nombre: Hugo
+Promedio: 10
+Nota mayor: 10
+Nota menor: 10
+Aprobados: 5
+Reprobados: 0
+Fecha: Miercoles 13 de Mayo del 2026
+Lenguaje utilizado: C++
+==========================
